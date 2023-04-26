@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Bubbelbad
-- 👀 I’m interested in learning Python
-- 🌱 I’m currently learning into studies for system developing
-- 💞️ I’m looking to collaborate on very basic stuff
+- 👋 Hi, I’m @Bubbelbad!
+- 👀 I’m interested in learning how to code.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on _very_ basic stuff
 - 📫 How to reach me - just DM
 
 <!---
