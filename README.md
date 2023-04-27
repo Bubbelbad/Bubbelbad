@@ -1,4 +1,6 @@
-I’m interested in learning how to code and seeing if it could be a new career posibility for me!
+Hi! 
+
+I’m interested in learning how to code and seeing if it could be a new career posibility for me.
 Started somewhat in mars and have never been coding before. 
 
 - 🌱 I’m currently learning python on a basic level.
