@@ -1,4 +1,4 @@
-Hi! 
+Ohoy! 
 
 I’m interested in learning how to code and seeing if it could be a new career posibility for me.
 I started somewhat in mars and haven't been coding before. 
