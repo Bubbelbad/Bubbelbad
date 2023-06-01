@@ -1,9 +1,9 @@
-Ohoy! 
+Hey!
 
 I’m interested in learning how to code and seeing if it could be a new career posibility for me.
-I started somewhat in mars and haven't been coding before. 
+I started in mars and haven't been coding previously. 
 
-- 🌱 I’m currently learning python on a basic level.
+- 🌱 I’m currently learning python on a basic level! 
 
 Feel free to give me tips! Would like to find good sources for learning, easy project ideas or a good community for motivation. 
 <!---
