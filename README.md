@@ -1,7 +1,7 @@
 Hey!
 
 I’m interested in learning how to code and seeing if it could be a new career posibility for me.
-I started in mars and haven't been coding previously. 
+I started in mars and haven't been coding previously. Interested in system development in the long run. 
 
 - 🌱 I’m currently learning python on a basic level! 
 
