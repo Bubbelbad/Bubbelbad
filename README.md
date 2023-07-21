@@ -8,8 +8,8 @@ Hey!
 I’m interested in learning how to code and seeing if it could be a new career posibility for me.
 I started in mars and haven't been coding previously. Interested in system development in the long run. 
 
-- 🌱 I’m currently learning python & C# on a basic level
-- ⚡ Hopefully getting into system developing education this autumn
+- 🌱 I’m currently learning python 3 on a basic level
+- ⚡ Starting my studies of computer sciences this autumn. 
 
 Feel free to give me tips! Would appreciate ideas for learning or easy project that you've found helpful.
 
@@ -30,12 +30,13 @@ Feel free to give me tips! Would appreciate ideas for learning or easy project t
 
 
 
----
+___
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bubbelbad&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bubbelbad&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://www.codewars.com/users/Vulle/badges/large" title="Java" alt="Java" width="600" height="80"/>&nbsp;
 <!---
 Bubbelbad/Bubbelbad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
