@@ -5,11 +5,10 @@
 
 Hey!
 
-I’m interested in learning how to code and seeing if it could be a new career posibility for me.
-I started in mars and haven't been coding previously. Interested in system development in the long run. 
+I'm a student of object-oriented programing in Gothenburg area. I will be focused on C#, java, agile project management and databases. 
 
-- 🌱 I’m currently learning python 3 on a basic level
-- ⚡ Starting my studies of computer sciences this autumn. 
+- 🌱 Currently learning C#!
+- ⚡ Will be ready for work in spring 2025. 
 
 Feel free to give me tips! Would appreciate ideas for learning or easy project that you've found helpful.
 
