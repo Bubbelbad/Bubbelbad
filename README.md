@@ -1,16 +1,12 @@
-<div align="center">
-<img src="https://media.giphy.com/media/E4kjYvAnTjh45ML3TO/giphy.gif" width="150"/>
-</div>
 
+Hello!
 
-Hey!
-
-I'm a student of object-oriented programing in Gothenburg area. I will be focused on C#, java, agile project management and databases. 
+I'm studying object-oriented programing in Gothenburg area @ NBI / Handelsakademin. I will be focused on C#, java, agile project management and databases. 
 
 - 🌱 Currently learning C#!
 - ⚡ Will be ready for work in spring 2025. 
 
-Feel free to give me tips! Would appreciate ideas for learning or easy project that you've found helpful.
+Feel free to give me tips - would appreciate ideas for learning or easy project that you've found helpful!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/victor-ivarson-28a17524b/">
@@ -26,7 +22,7 @@ Feel free to give me tips! Would appreciate ideas for learning or easy project t
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 
 ___
