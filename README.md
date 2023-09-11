@@ -1,12 +1,14 @@
 
 Hello!
 
-I'm studying object-oriented programing in Gothenburg area @ NBI / Handelsakademin. I will be focused on C#, java, agile project management and databases. 
+I'm studying object-oriented programing in Gothenburg area @ NBI / Handelsakademin. I will be mainly focused on C#, java, SQL and agile project management. 
 
-- 🌱 Currently learning C#!
-- ⚡ Will be ready for work in spring 2025. 
+- 🌱 Currently learning C#
+- 🌳 Looking for internship in autumn 2024
+- ⚡ Will be ready for work in spring 2025
 
-Feel free to give me tips - would appreciate ideas for learning or easy project that you've found helpful!
+
+Feel free to give me tips - would appreciate ideas for learning or easy project that you've found helpful.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/victor-ivarson-28a17524b/">
