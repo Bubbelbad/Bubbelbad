@@ -5,10 +5,10 @@ I'm studying object-oriented programing in Gothenburg area @ NBI / Handelsakadem
 
 - 🌱 Currently learning C#
 - 🌳 Looking for internship in autumn 2024
-- ⚡ Will be ready for work in spring 2025
+- ⚡ Will be examinated and ready for work in spring 2025
 
 
-Feel free to give me tips - would appreciate ideas for learning or easy project that you've found helpful.
+Constructive criticism of my code is welcome !
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/victor-ivarson-28a17524b/">
@@ -24,6 +24,7 @@ Feel free to give me tips - would appreciate ideas for learning or easy project 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
