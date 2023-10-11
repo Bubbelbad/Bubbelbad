@@ -1,14 +1,28 @@
 
 Hello!
 
-I'm studying object-oriented programing in Gothenburg area @ NBI / Handelsakademin. I will be mainly focused on C#, java, SQL and agile project management. 
+Right now I'm studying object-oriented programing in Gothenburg area @ NBI / Handelsakademin. I will be mainly focused on C#, java, SQL and agile project management. 
 
 - 🌱 Currently learning C#
-- 🌳 Looking for internship in autumn 2024
+- 🌳 Looking for internship in autumn 2024 around Gothenburg area
 - ⚡ Will be examinated and ready for work in spring 2025
 
 
-Constructive criticism of my code is welcome !
+_**Constructive criticism of my code is welcome !**_
+
+
+
+
+
+After finishing my studies at Handelsakademin I'll be knowledgeable within: ⬇️
+
+- Programming language C# 
+- Programming language JavaScript
+- .NET Framework
+- Databases, MySQL 
+- Object oriented analysis and design 
+- Webb applications - webbdesign, HTML 5, CSS, XML, JavaScript, .NET MVC 
+- Agil project management
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/victor-ivarson-28a17524b/">
@@ -20,7 +34,7 @@ Constructive criticism of my code is welcome !
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Languages and Tools so far :
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
