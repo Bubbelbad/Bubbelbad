@@ -3,7 +3,6 @@ Hello!
 
 Right now I'm studying object-oriented programing in Gothenburg area @ NBI / Handelsakademin. I will be mainly focused on C#, java, SQL and agile project management. 
 
-- 🌱 Currently learning C#
 - 🌳 Looking for internship in autumn 2024 around Gothenburg area
 - ⚡ Will be examinated and ready for work in spring 2025
 
@@ -41,6 +40,7 @@ After finishing my studies at Handelsakademin I'll be knowledgeable within: ⬇�
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
 ___
 
