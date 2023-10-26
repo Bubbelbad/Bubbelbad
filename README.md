@@ -1,19 +1,11 @@
-
-Hello!
-
-Right now I'm studying object-oriented programing in Gothenburg area @ NBI / Handelsakademin. I will be mainly focused on C#, java, SQL and agile project management. 
+_**Constructive criticism of my code is welcome !**_
 
 - 🌳 Looking for internship in autumn 2024 around Gothenburg area
 - ⚡ Will be examinated and ready for work in spring 2025
 
 
-_**Constructive criticism of my code is welcome !**_
 
-
-
-
-
-After finishing my studies at Handelsakademin I'll be knowledgeable within: ⬇️
+After finishing my studies at NBI/Handelsakademin I'll be knowledgeable within: ⬇️
 
 - Programming language C# 
 - Programming language JavaScript
