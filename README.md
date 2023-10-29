@@ -1,11 +1,14 @@
+## Hi there!👋 I'm Victor, an aspiring software developer based in Gothenburg ##
+
 _**Constructive criticism of my code is welcome !**_
 
+- 💻 I'm currently studying object oriented programming @ NBI / Handelsakademin
 - 🌳 Looking for internship in autumn 2024 around Gothenburg area
 - ⚡ Will be examinated and ready for work in spring 2025
 
 
 
-After finishing my studies at NBI/Handelsakademin I'll be knowledgeable within: ⬇️
+#### After finishing my studies I'll be knowledgeable within: ⬇️
 
 - Programming language C# 
 - Programming language JavaScript
