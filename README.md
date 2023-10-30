@@ -1,4 +1,4 @@
-## Hi there!👋 I'm Victor, an aspiring software developer based in Gothenburg ##
+## Hi there!👋 I'm Victor, an aspiring .NET software dev. based in Gothenburg ##
 
 _**Constructive criticism of my code is welcome !**_
 
