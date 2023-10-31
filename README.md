@@ -38,8 +38,7 @@ _**Constructive criticism of my code is welcome !**_
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
 
 ___
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Bubbelbad&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-sand.vercel.app?user=Bubbelbad&theme=rising-sun&hide_border=true)](https://git.io/streak-stats)
 
 
 <img src="https://www.codewars.com/users/Bubbelbad/badges/large" title="Java" alt="Java" width="600" height="80"/>&nbsp;
