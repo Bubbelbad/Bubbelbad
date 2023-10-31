@@ -1,14 +1,13 @@
-## Hi there!👋 I'm Victor, an aspiring .NET software dev. based in Gothenburg ##
+# Hey!👋 I'm Victor - aspiring .NET software developer
 
-_**Constructive criticism of my code is welcome !**_
 
-- 💻 I'm currently studying object oriented programming @ NBI / Handelsakademin
+- 💻 Currently studying object oriented programming @ NBI / Handelsakademin
 - 🌳 Looking for internship in autumn 2024 around Gothenburg area
 - ⚡ Will be examinated and ready for work in spring 2025
 
 
 
-#### After finishing my studies I'll be knowledgeable within: ⬇️
+## After finishing my studies I'll be knowledgeable within: ⬇️
 
 - Programming language C# 
 - Programming language JavaScript
@@ -18,17 +17,18 @@ _**Constructive criticism of my code is welcome !**_
 - Webb applications - webbdesign, HTML 5, CSS, XML, JavaScript, .NET MVC 
 - Agil project management
 
+You'll reach me here:
 <div id="badges">
   <a href="https://www.linkedin.com/in/victor-ivarson-28a17524b/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
+## _Constructive criticism of my code is welcome !_ ###
 
 
----
 
-### :hammer_and_wrench: Languages and Tools so far :
+### :hammer_and_wrench: Languages and Tools :
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
