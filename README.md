@@ -5,7 +5,7 @@
 - 🌳 Looking for internship in autumn 2024 around Gothenburg area
 - ⚡ Will be examinated and ready for work in spring 2025
 
-
+ _**Constructive criticism of my code is welcome !**_ 
 
 ## After finishing my studies I'll be knowledgeable within: ⬇️
 
@@ -24,7 +24,7 @@ You'll reach me here:
   </a>
 </div>
 
-## _Constructive criticism of my code is welcome !_ ###
+
 
 
 
