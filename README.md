@@ -41,7 +41,7 @@ You'll reach me here:
   
 
 ___
-[![GitHub Streak](https://github-readme-streak-stats-sand.vercel.app?user=Bubbelbad&theme=rising-sun&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-1-tawny.vercel.app?user=Bubbelbad&theme=rising-sun&hide_border=true)](https://git.io/streak-stats)
 
 
 <img src="https://www.codewars.com/users/Bubbelbad/badges/large" title="Java" alt="Java" width="600" height="80"/>&nbsp;
