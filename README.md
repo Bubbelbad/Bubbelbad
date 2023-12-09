@@ -2,7 +2,7 @@
 
 
 - 💻 Currently studying object oriented programming @ NBI / Handelsakademin
-- 🌳 Looking for internship in autumn 2024 around Gothenburg area
+- 🌳 Looking for internship - six weeks starting september 2024, around Gothenburg area
 - ⚡ Will be examinated and ready for work in spring 2025
 
  _**Constructive criticism of my code is welcome !**_ 
@@ -27,7 +27,7 @@ You'll reach me here:
 
 
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools:
 
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
