@@ -5,7 +5,7 @@
 - 🌳 Looking for internship - six weeks starting september 2024, around Gothenburg area
 - ⚡ Will be examinated and ready for work in spring 2025
 
- _**Constructive criticism of my code is welcome !**_ 
+ _**Constructive criticism and tips on my code is welcome !**_ 
 
 ## After finishing my studies I'll be knowledgeable within: ⬇️
 
@@ -14,7 +14,7 @@
 - Databases, MySQL 
 - Object oriented analysis and design 
 - Webb applications - webbdesign, HTML 5, CSS, XML, JavaScript, .NET MVC 
-- Agil project management
+- Agile project management
 
 You'll reach me here:
 <div id="badges">
@@ -34,7 +34,7 @@ You'll reach me here:
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio Community" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   
