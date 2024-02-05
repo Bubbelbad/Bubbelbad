@@ -2,8 +2,8 @@
 
 
 - 💻 Currently studying object oriented programming @ NBI / Handelsakademin
-- 🌳 Looking for internship - six weeks starting september 2024, around Gothenburg area
-- ⚡ Will be examinated and ready for work in spring 2025
+- 🌳 Looking for internship from 2 september - 1 november 2024, around Gothenburg area
+- ⚡ Will be examinated and ready for work in spring 2025!
 
  _**Constructive criticism and tips on my code is welcome !**_ 
 
