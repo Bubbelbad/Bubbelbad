@@ -13,7 +13,7 @@
 - .NET Framework
 - Databases, MySQL 
 - Object oriented analysis and design 
-- Webb applications - webbdesign, HTML 5, CSS, XML, JavaScript, .NET MVC 
+- Webb applications - webbdesign, HTML-5, CSS, XML, JavaScript, ASP.NET, MVC 
 - Agile project management
 
 You'll reach me here:
