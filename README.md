@@ -1,9 +1,11 @@
 # Hey!👋 I'm Victor - aspiring .NET software developer
 
+My name is Victor. I’m an aspiring software developer in Gothemburg -- I'm passionate about technology, music and basically anything that makes the digital world spin 🌏
 
-- 💻 Currently studying object oriented programming @ NBI / Handelsakademin
-- 🌳 Looking for internship from 2 september - 1 november 2024, around Gothenburg area
-- ⚡ Will be examinated and ready for work in spring 2025!
+- 💻 Currently studying .NET object oriented programming @ NBI / Handelsakademin
+- ⚡ Will be graduated and ready for work in spring 2025
+
+  
 
  _**Constructive criticism and tips on my code is welcome !**_ 
 
@@ -39,6 +41,9 @@ You'll reach me here:
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+
+  
   
   
 
