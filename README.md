@@ -1,4 +1,4 @@
-# Hey!👋 I'm Victor, a .NET software developer based in Gothemburg
+# Hey!👋 I'm Victo - a .NET software developer based in Gothemburg
 
 I'm passionate about technology, music and basically anything that makes the digital world spin 🌏
 
