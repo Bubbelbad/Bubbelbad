@@ -1,6 +1,6 @@
-# Hey!👋 I'm Victor - one .NET software developer based in Gothemburg
+# Hey!👋 I'm Victor, .NET software developer in Gothemburg
 
-I'm passionate about technology, music and basically anything that makes the digital world spin 🌏
+I'm passionate about music, plants, technogoly and basically anyhing that makes the digital world spin 🌏
 
 - 💻 Currently studying .NET object oriented programming @ NBI / Handelsakademin
 - ⚡ Will be graduated and ready for work in spring 2025
