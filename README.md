@@ -7,6 +7,8 @@ I'm passionate about music, plants, technology and basically anyhing that makes 
 
 
  _**Constructive criticism and tips on my code is welcome !**_ 
+ 
+<br>
 
 ## Main interests, languages and frameworks: ⬇️
 
@@ -17,6 +19,8 @@ I'm passionate about music, plants, technology and basically anyhing that makes 
 - Webb applications - Webb design, HTML-5, CSS, XML, JavaScript, ASP.NET, MVC 
 - Agile project management
 
+<br>
+
 You'll reach me here:
 <div id="badges">
   <a href="https://www.linkedin.com/in/victor-ivarson-28a17524b/">
@@ -24,11 +28,10 @@ You'll reach me here:
   </a>
 </div>
 
+<br>
+<br>
 
 
-
-
-### 🛠️ Tools:
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
