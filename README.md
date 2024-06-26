@@ -1,21 +1,20 @@
 # Hey!👋 I'm Victor, .NET software developer in Gothemburg
 
-I'm passionate about music, plants, technogoly and basically anyhing that makes the digital world spin 🌏
+I'm passionate about music, plants, technology and basically anyhing that makes the digital world spin 🌏
 
 - 💻 Currently studying .NET object oriented programming @ NBI / Handelsakademin
 - ⚡ Will be graduated and ready for work in spring 2025
 
-  
 
  _**Constructive criticism and tips on my code is welcome !**_ 
 
-## After finishing my studies I'll be knowledgeable within: ⬇️
+## Main interests, languages and frameworks: ⬇️
 
 - Programming language C# 
 - .NET Framework
-- Databases, MySQL 
+- MySQL 
 - Object oriented analysis and design 
-- Webb applications - webbdesign, HTML-5, CSS, XML, JavaScript, ASP.NET, MVC 
+- Webb applications - Webb design, HTML-5, CSS, XML, JavaScript, ASP.NET, MVC 
 - Agile project management
 
 You'll reach me here:
@@ -29,7 +28,7 @@ You'll reach me here:
 
 
 
-### 🛠️ Languages and Tools:
+### 🛠️ Tools:
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="Csharp" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSC" alt="VSC" width="40" height="40"/>&nbsp;
@@ -42,6 +41,7 @@ You'll reach me here:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
 
   
   
