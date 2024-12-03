@@ -3,11 +3,9 @@
 I'm a .NET developer based in Gothenburg, Sweden. I'm passionate about music, plants, technology and basically anyhing that makes the digital world spin 🌏
 I love creating efficient and scalable applications using the .NET framework.
 
-- 💻 Studying last year of .NET object oriented programming @ NBI / Handelsakademin
-- ⚡ Graduated and ready for work in spring 2025
+<br>
 
-
- _**Constructive criticism and tips on my code is welcome !**_ 
+ _**Constructive criticism my code is welcome !**_ 
  
 <br>
 
@@ -15,9 +13,9 @@ I love creating efficient and scalable applications using the .NET framework.
 
 - **Languages**: C#, JavaScript, HTML, CSS
 - **Frameworks**: .NET Core, ASP.NET, Entity Framework
-- **Tools**: Visual Studio, Git, Postman
+- **Tools**: Visual Studio, VSC, Git, Postman
 - **Databases**: MySQL
-- **Other**: RESTful APIs, LINQ, Unit Testing
+- **Other**: RESTful APIs, LINQ, Unit Testing, Azure
 
 <br>
 
