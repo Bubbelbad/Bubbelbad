@@ -12,7 +12,7 @@ I love creating efficient and scalable applications using the .NET framework.
 ## Main interests, languages and frameworks: ⬇️
 
 - **Languages**: C#, JavaScript, HTML, CSS
-- **Frameworks**: .NET Core, ASP.NET, Entity Framework
+- **Frameworks**: .ASP.NET Core, Entity Framework
 - **Tools**: Visual Studio, VSC, Git, Postman
 - **Databases**: MySQL
 - **Other**: RESTful APIs, LINQ, Unit Testing, Azure
