@@ -12,19 +12,19 @@ I really like creating efficient and scalable applications using the .NET framew
 ## Skills and Tools: ⬇️
 
 #### .NET Development
-- 🟣 **Languages**: C#
-- 🟣 **Frameworks**: ASP.NET Core, MVC, Entity Framework, Clean Architecture, Razor Pages
-- 🟣 **Tools & Services**: Visual Studio, VSC, Git, Postman, Azure, Azure Table Storage, Azure Service Bus
-- 🟣 **Testing**: xUnit, NUnit, Moq
+- **Languages**: C#
+- **Frameworks**: ASP.NET Core, MVC, Entity Framework, Clean Architecture, Razor Pages
+- **Tools & Services**: Visual Studio, VSC, Git, Postman, Azure, Azure Table Storage, Azure Service Bus
+- **Testing**: xUnit, NUnit, Moq
 
 #### Frontend Development
-- 🔵 **Languages**: HTML, CSS, JavaScript
-- 🔵  **Frameworks**: Bootstrap, React
+- **Languages**: HTML, CSS, JavaScript
+- **Frameworks**: Bootstrap, React
 
 #### Database & Backend
-- 🔴 **Database Languages**: SQL
-- 🔴 **Technologies**: SQL Server, Azure Table Storage, Web Apps
-- 🔴 **Data Management**: LINQ, SQL Queries, Stored Procedures
+- **Database Languages**: SQL
+- **Technologies**: SQL Server, Azure Table Storage, Web Apps
+- **Data Management**: LINQ, SQL Queries, Stored Procedures, RESTful API
 
 <br>
 
