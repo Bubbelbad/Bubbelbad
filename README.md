@@ -1,11 +1,6 @@
-# Hey!👋 I'm Victor, .NET software developer in Gothemburg
+# Hey!👋 I'm Victor, .NET developer in Gothenburg
 
-I'm passionate about music, plants, technology and basically anyhing that makes the digital world spin 🌏
-I really like creating efficient and scalable applications using the .NET framework.
-
-<br>
-
- _**Constructive criticism on my code is welcome !**_ 
+I'm passionate about music, plants, technology and basically anyhing that makes the digital world spin 🌍
  
 <br>
 
@@ -14,17 +9,16 @@ I really like creating efficient and scalable applications using the .NET framew
 #### .NET Development
 - **Languages**: C#
 - **Frameworks**: ASP.NET Core, MVC, Entity Framework, Clean Architecture, Razor Pages
-- **Tools & Services**: Visual Studio, VSC, Git, Postman, Azure, Azure Table Storage, Azure Service Bus
-- **Testing**: xUnit, NUnit, Moq
+- **Tools & Services**: Visual Studio, VSC, Git, Postman, Azure
+- **Testing**: xUnit, NUnit, FluentAssertion
 
 #### Frontend Development
 - **Languages**: HTML, CSS, JavaScript
-- **Frameworks**: Bootstrap, React
 
 #### Database & Backend
 - **Database Languages**: SQL
 - **Technologies**: SQL Server, Azure Table Storage, Web Apps
-- **Data Management**: LINQ, SQL Queries, Stored Procedures, RESTful API
+- **Data Management**: LINQ, SQLServer, RESTful API
 
 <br>
 
